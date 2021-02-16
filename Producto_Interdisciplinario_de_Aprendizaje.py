@@ -1,8 +1,8 @@
 '''
 
                             Producto Interdisciplinario de Aprendizaje
-                            
-Autor : Ernesto Guadalupe Rincon Ortiz
+
+Ernesto Guadalupe Rincon Ortiz
 Fecha : 09 de juniode 2020
 
 '''
